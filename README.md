@@ -1,4 +1,11 @@
 ### Hi there 👋
+My name is Manu!
+- 🌱 I’m currently learning to code and I just got started with the help of some friends ;D
+- 😄 My pronouns are he/him
+- 🔭 I’m currently working with basic javascript and html <.<
+- ⚡ I'm @Blockmanuu in most social media
+- 💬 If you want to talk I'd rather we did that through discord manu3393#5514
+- 🔨 I'm working with the help of TheChicken14
 
 <!--
 **raccoondotcom/raccoondotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
